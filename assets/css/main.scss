@@ -42,6 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-.greedy-nav .visible-links {
+.greedy-nav .visible-links > li:nth-child(2) {
   margin-left: 5rem; 
 }
