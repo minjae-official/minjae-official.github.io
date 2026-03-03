@@ -42,6 +42,15 @@
     "vendor/font-awesome/brands"
 ;
 
-.masthead .greedy-nav > ul{
-  margin-left: 5rem !important;
+.masthead .greedy-nav{
+  justify-content: flex-start !important;
+}
+
+.masthead .greedy-nav > a.site-title{
+  flex: 0 0 auto !important;
+}
+
+.masthead .greedy-nav > ul.visible-links{
+  flex: 0 0 auto !important;
+  margin-left: 5rem !important;  /* 이 값만 조절 */
 }
