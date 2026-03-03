@@ -42,17 +42,21 @@
     "vendor/font-awesome/brands"
 ;
 
-.masthead .greedy-nav{ position: relative; }
-
-.masthead .greedy-nav > a.site-title{
-  position: absolute !important;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 2;
+#site-nav.greedy-nav{
+  display: grid !important;
+  grid-template-columns: auto 1fr auto; /* site-title | links | toggle */
+  align-items: center;
 }
 
-/* Publications/CV만 오른쪽으로 */
-.masthead .greedy-nav > ul.visible-links{
-  padding-left: 6rem !important; /* 이 값만 조절 */
+/* 버튼1(홈/타이틀)은 왼쪽 고정 */
+#site-nav.greedy-nav > a.site-title{
+  grid-column: 1 !important;
+  justify-self: start !important;
+}
+
+/* Publications/CV만 오른쪽으로 조금 */
+#site-nav.greedy-nav > ul.visible-links{
+  grid-column: 2 !important;
+  justify-self: start !important;
+  margin-left: 2rem !important; /* 이 값만 조절 */
 }
