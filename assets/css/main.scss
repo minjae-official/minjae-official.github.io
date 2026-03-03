@@ -42,9 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Publications, CV만 오른쪽으로 조금 이동 */
-.greedy-nav a[href*="/Publications/"],
-.greedy-nav a[href*="/CV/"]{
-  display: inline-block;
-  transform: translateX(5rem); /* 원하는 만큼 */
+.greedy-nav .visible-links > .masthead__menu-item:first-child {
+  margin-right: 4rem !important;  
 }
