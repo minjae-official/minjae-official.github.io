@@ -42,6 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-.greedy-nav .visible-links > li:first-child {
-  margin-right: 5rem !important;
+.masthead .greedy-nav > ul.visible-links{
+  margin-left: 5rem !important; /* 값만 조절 */
 }
