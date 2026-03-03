@@ -42,9 +42,6 @@
     "vendor/font-awesome/brands"
 ;
 
-.masthead__inner-wrap {
-  justify-content: space-between;
-}
-.greedy-nav {
-  margin-left: 100px;
+.masthead .greedy-nav .visible-links {
+  padding-left: 200px;
 }
