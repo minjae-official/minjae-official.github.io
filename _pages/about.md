@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Minjae Kang"
 permalink: /
 author_profile: true
 ---
