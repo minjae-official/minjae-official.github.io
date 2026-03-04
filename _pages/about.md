@@ -16,24 +16,24 @@ My research focuses on vision-language models for robotics, with broader interes
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="/images/profile.png" alt="Paper Title 1">
+        <img src="/images/profile.png" alt="Paper 1">
       </div>
       <div class="publication-content">
-        <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems <a href="https://ieeexplore.ieee.org/document/11122627" class="btn">PDF</a></h3>
+        <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems</h3>
         <p>Minjae Kang, Mineui Hong, and Songhwai Oh</p>
-        <p>IEEE Robotics and Automation Letters (RA-L), Oct. 2025.</p>
+        <p>IEEE Robotics and Automation Letters (RA-L), Oct. 2025. <a href="https://ieeexplore.ieee.org/document/11122627" class="btn">PDF</a></p>
       </div>
     </div>
   </li>
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="/images/profile.png" alt="Paper Title 1">
+        <img src="/images/profile.png" alt="Paper 1">
       </div>
       <div class="publication-content">
-        <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems</h3>
-        <p>Minjae Kang, Mineui Hong, and Songhwai Oh</p>
-        <p>IEEE Robotics and Automation Letters (RA-L), Oct. 2025. <a href="http://link_to_paper1.com" class="btn">PDF</a></p>
+        <h3>Automatic Real-to-Sim-to-Real System through Iterative Interactions for Robust Robot Manipulation Policy Learning with Unseen Objects</h3>
+        <p>Minjae Kang, Hogun Kee, Hosung Lee, and Songhwai Oh</p>
+        <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2025. <a href="https://rllab.snu.ac.kr/publications/papers/2025_iros_aric.pdf" class="btn">PDF</a></p>
       </div>
     </div>
   </li>
