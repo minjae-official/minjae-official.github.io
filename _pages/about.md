@@ -66,7 +66,9 @@ My research focuses on vision-language models for robotics, with broader interes
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="/images/profile.png" alt="Paper 1">
+        <video width="140" height="140" autoplay loop muted>
+          <source src="/images/webpage_tasd.mp4" type="video/mp4">
+        </video>
       </div>
       <div class="publication-content">
         <h3>Object Rearrangement Planning for Target Retrieval in a Confined Space with Lateral View</h3>
@@ -81,7 +83,9 @@ My research focuses on vision-language models for robotics, with broader interes
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="/images/profile.png" alt="Paper 1">
+        <video width="140" height="140" autoplay loop muted>
+          <source src="/images/webpage_gp3.mp4" type="video/mp4">
+        </video>
       </div>
       <div class="publication-content">
         <h3>Grasp Planning for Occluded Objects in a Confined Space with Lateral View Using Monte Carlo Tree Search</h3>
