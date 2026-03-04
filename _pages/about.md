@@ -15,7 +15,8 @@ My research focuses on vision-language models for robotics, with broader interes
 
 <div class="pub-card">
   <div class="pub-media">
-    <img src="/images/myproject.gif" alt="project preview">
+    <!-- <img src="/images/myproject.gif" alt="project preview"> -->
+    <img src="/images/profile.png">
     <!-- video를 쓰고 싶으면 img 대신 아래 사용
     <video autoplay loop muted playsinline>
       <source src="/images/myproject.mp4" type="video/mp4">
