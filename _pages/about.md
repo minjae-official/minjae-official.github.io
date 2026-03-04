@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About"
+title: ""
 permalink: /
 author_profile: true
 ---
@@ -11,4 +11,4 @@ My research focuses on vision-language models for robotics, with broader interes
 
 
 
-## Key Publications
+# Key Publications
