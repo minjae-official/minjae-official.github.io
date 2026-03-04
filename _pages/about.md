@@ -32,7 +32,7 @@ My research focuses on vision-language models for robotics, with broader interes
     <div class="publication-item">
       <div class="publication-image">
         <!-- <img src="/images/profile.png" alt="Paper 1"> -->
-        <video width="140" height="140" autoplay loop>
+        <video width="140" height="140" autoplay loop muted>
           <source src="/images/webpage_gravit.mp4" type="video/mp4">
         </video>
       </div>
