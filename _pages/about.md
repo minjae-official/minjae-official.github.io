@@ -60,7 +60,7 @@ My research focuses on vision-language models for robotics, with broader interes
       <div class="publication-content">
         <h3>Gradual Receptive Expansion Using Vision Transformer for Online 3D Bin Packing</h3>
         <p><b>Minjae Kang</b>, Hogun Kee, Yoseph Park, Junseok Kim, Jaeyeon Jeong, Geunje Cheon, Jaewon Lee, and Songhwai Oh</p>
-        <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2024  
+        <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2024.
           <a href="https://rllab.snu.ac.kr/publications/papers/2024_iros_grevit.pdf" class="custom-btn1">PDF</a>
           <a href="https://www.youtube.com/watch?v=ky_vKCDEQNo" class="custom-btn3">VIDEO</a>
         </p>
@@ -94,7 +94,7 @@ My research focuses on vision-language models for robotics, with broader interes
       <div class="publication-content">
         <h3>Grasp Planning for Occluded Objects in a Confined Space with Lateral View Using Monte Carlo Tree Search</h3>
         <p><b>Minjae Kang</b>, Hogun Kee, Junseok Kim, and Songhwai Oh</p>
-        <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022
+        <p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Oct. 2022.
           <a href="https://rllab.snu.ac.kr/publications/papers/2022_iros_gp3.pdf" class="custom-btn1">PDF</a>
           <a href="https://www.youtube.com/watch?v=shSYvFEnZEc" class="custom-btn3">VIDEO</a>
         </p>
