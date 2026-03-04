@@ -32,7 +32,9 @@ My research focuses on vision-language models for robotics, with broader interes
     <div class="publication-item">
       <div class="publication-image">
         <!-- <img src="/images/profile.png" alt="Paper 1"> -->
-        <iframe width="140" height="140" src="/images/webpage_gravit.mp4" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+        <video width="140" height="140" controls autoplay loop>
+          <source src="/images/webpage_gravit.mp4" type="video/mp4">
+        </video>
       </div>
       <div class="publication-content">
         <h3>Automatic Real-to-Sim-to-Real System through Iterative Interactions for Robust Robot Manipulation Policy Learning with Unseen Objects</h3>
