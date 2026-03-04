@@ -12,7 +12,7 @@ My research focuses on vision-language models for robotics, with broader interes
 
 
 # Key Publications
-<ul class="publication-list">
+<!-- <ul class="publication-list">
   {% for pub in site.data.publications %}
   <li>
     <div class="publication-item">
@@ -27,4 +27,4 @@ My research focuses on vision-language models for robotics, with broader interes
     </div>
   </li>
   {% endfor %}
-</ul>
+</ul> -->
