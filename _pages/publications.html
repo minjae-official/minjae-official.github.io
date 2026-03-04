@@ -12,7 +12,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,7 +30,34 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+{% endif %}-->
+
+<ul class="custom-publication-list">
+  <li>
+    <div class="custom-publication-item">
+      <div class="custom-publication-content">
+        <h2>Title of Paper 1</h2>
+        <p>Author A, Author B, Author C</p>
+        <p>Conference Name, Year 
+          <a href="http://link_to_paper1.com" class="custom-btn">PDF</a> 
+          <a href="http://link_to_video1.com" class="custom-btn">VIDEO</a>
+        </p>
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="custom-publication-item">
+      <div class="custom-publication-content">
+        <h2>Title of Paper 2</h2>
+        <p>Author D, Author E</p>
+        <p>Another Conference, Year 
+          <a href="http://link_to_paper2.com" class="custom-btn">PDF</a>
+          <a href="http://link_to_video2.com" class="custom-btn">VIDEO</a>
+        </p>
+      </div>
+    </div>
+  </li>
+</ul>
 
 
 
