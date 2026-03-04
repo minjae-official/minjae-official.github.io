@@ -13,18 +13,16 @@ My research focuses on vision-language models for robotics, with broader interes
 
 # Key Publications
 <ul class="publication-list">
-  {% for pub in site.data.publications %}
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="/images/profile.png" alt="{{ pub.title }}">
+        <img src="/images/profile.png" alt="Paper Title 1">
       </div>
       <div class="publication-content">
-        <h3>{{ pub.title }}</h3>
-        <p>{{ pub.authors }}</p>
-        <p>{{ pub.conference }} <a href="{{ pub.link }}" class="btn">Read More</a></p>
+        <h3>Title of Paper 1</h3>
+        <p>Author A, Author B, Author C</p>
+        <p>Conference Name, Year <a href="http://link_to_paper1.com" class="btn">Read More</a></p>
       </div>
     </div>
   </li>
-  {% endfor %}
 </ul>
