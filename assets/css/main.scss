@@ -114,7 +114,7 @@
 }
 
 .custom-publication-content p {
-  margin: 5px 0;
+  margin: 5px 10px 5px 0;  // 오른쪽에 간격 추가
   color: #555;
 }
 
@@ -157,12 +157,12 @@
   font-size: 0.9em;
   font-weight: bold;
   color: #fff;
-  background-color: #32cd32;
+  background-color: #7cfc00;
   text-decoration: none !important;
   border-radius: 3px;
   transition: background-color 0.3s;
 }
 
 .custom-btn3:hover {
-  background-color: #228b22;
+  background-color: #32cd32;
 }
