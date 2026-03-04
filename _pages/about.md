@@ -12,28 +12,19 @@ My research focuses on vision-language models for robotics, with broader interes
 
 
 # Key Publications
-
-<div class="pub-card">
-  <div class="pub-media">
-    <!-- <img src="/images/myproject.gif" alt="project preview"> -->
-    <img src="/images/profile.png">
-    <!-- video를 쓰고 싶으면 img 대신 아래 사용
-    <video autoplay loop muted playsinline>
-      <source src="/images/myproject.mp4" type="video/mp4">
-    </video>
-    -->
-  </div>
-
-  <div class="pub-content">
-    <h3>Awesome Robot Manipulation with VLM</h3>
-    <p class="pub-authors">
-      Minjae Kang, Coauthor A, Coauthor B
-    </p>
-    <p class="pub-venue">
-      Conference on Robot Learning (CoRL), 2026
-    </p>
-    <a class="pub-button" href="https://ieeexplore.ieee.org/document/11122627" target="_blank">
-      Paper
-    </a>
-  </div>
-</div>
+<ul class="publication-list">
+  {% for pub in site.data.publications %}
+  <li>
+    <div class="publication-item">
+      <div class="publication-image">
+        <img src="/images/profile.png" alt="{{ pub.title }}">
+      </div>
+      <div class="publication-content">
+        <h3>"dddd"</h3>
+        <p>"dddd"</p>
+        <p>"seeee" <a href="{{ pub.link }}" class="btn">Read More</a></p>
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
