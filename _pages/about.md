@@ -19,9 +19,9 @@ My research focuses on vision-language models for robotics, with broader interes
         <img src="/images/profile.png" alt="Paper Title 1">
       </div>
       <div class="publication-content">
-        <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems</h3>
+        <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems <a href="https://ieeexplore.ieee.org/document/11122627" class="btn">PDF</a></h3>
         <p>Minjae Kang, Mineui Hong, and Songhwai Oh</p>
-        <p>IEEE Robotics and Automation Letters (RA-L), Oct. 2025. <a href="http://link_to_paper1.com" class="btn">PDF</a></p>
+        <p>IEEE Robotics and Automation Letters (RA-L), Oct. 2025.</p>
       </div>
     </div>
   </li>
