@@ -48,34 +48,4 @@
 }
 
 # publication card
-.publication-list {
-  list-style: none;
-  padding: 0;
-}
 
-.publication-item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-.publication-image img {
-  max-width: 100px;
-  margin-right: 20px;
-}
-
-.publication-content {
-  max-width: 600px;
-}
-
-.btn {
-  background-color: #007bff;
-  color: white;
-  padding: 5px 10px;
-  text-decoration: none;
-  border-radius: 5px;
-}
-
-.btn:hover {
-  background-color: #0056b3;
-}
