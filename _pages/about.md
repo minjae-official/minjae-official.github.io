@@ -68,7 +68,7 @@ My research focuses on vision-language models for robotics, with broader interes
     <div class="publication-item">
       <div class="publication-image">
         <video width="140" height="140" autoplay loop muted>
-          <source src="/images/webpage_tasd.mp4" type="video/mp4">
+          <source src="/images/webpage_tsad.mp4" type="video/mp4">
         </video>
       </div>
       <div class="publication-content">
