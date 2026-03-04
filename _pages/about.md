@@ -17,7 +17,7 @@ My research focuses on vision-language models for robotics, with broader interes
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="{{ pub.image }}" alt="{{ pub.title }}">
+        <img src="/images/profile.png" alt="{{ pub.title }}">
       </div>
       <div class="publication-content">
         <h3>{{ pub.title }}</h3>
