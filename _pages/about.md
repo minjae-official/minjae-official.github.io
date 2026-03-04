@@ -19,9 +19,9 @@ My research focuses on vision-language models for robotics, with broader interes
         <img src="/images/profile.png" alt="Paper Title 1">
       </div>
       <div class="publication-content">
-        <h3>Title of Paper 1</h3>
-        <p>Author A, Author B, Author C</p>
-        <p>Conference Name, Year <a href="http://link_to_paper1.com" class="btn">Read More</a></p>
+        <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems</h3>
+        <p>Minjae Kang, Mineui Hong, and Songhwai Oh</p>
+        <p>IEEE Robotics and Automation Letters (RA-L), Oct. 2025. <a href="http://link_to_paper1.com" class="btn">PDF</a></p>
       </div>
     </div>
   </li>
