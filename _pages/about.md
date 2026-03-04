@@ -16,7 +16,8 @@ My research focuses on vision-language models for robotics, with broader interes
   <li>
     <div class="publication-item">
       <div class="publication-image">
-        <img src="/images/profile.png" alt="Paper 1">
+        <!-- <img src="/images/profile.png" alt="Paper 1"> -->
+        <img src="/images/webpage_playbook.gif" alt="Animated GIF" width="140" height="140">
       </div>
       <div class="publication-content">
         <h3>Playbook: Scalable Discrete Skill Discovery from Unstructured Datasets for Long-Horizon Decision-Making Problems</h3>
