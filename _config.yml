@@ -26,9 +26,9 @@ author:
   avatar           : "profile_minjae.jpg"
   name             : "Minjae Kang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Seoul, Republic of Korea"
+  bio              : "Researcher in Robot Learning and Vision-Language Models"
   employer         : "Seoul National University"
+  location         : "Seoul, Republic of Korea"
   uri              : # URL
   email            : "minjae.kang@rllab.snu.ac.kr" 
 
